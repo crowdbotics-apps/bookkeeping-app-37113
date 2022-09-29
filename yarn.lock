@@ -1251,6 +1251,9 @@
 "@screens/signup@file:./screens/signup":
   version "1.0.0"
 
+"@screens/upload-media@file:./screens/upload-media":
+  version "1.0.0"
+
 "@screens/upload-media@file:./screens/upload-media/":
   version "1.0.0"
 
