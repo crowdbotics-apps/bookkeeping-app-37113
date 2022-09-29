@@ -24,6 +24,7 @@
     "@screens/invite-friends": "file:./screens/invite-friends/",
     "@screens/menu": "file:./screens/menu/",
     "@screens/messages-listing": "file:./screens/messages-listing/",
+    "@screens/notifications": "file:./screens/notifications/",
     "@screens/payment-subscription": "file:./screens/payment-subscription/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/settings": "file:./screens/settings/",

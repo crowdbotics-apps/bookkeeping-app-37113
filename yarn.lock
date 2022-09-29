@@ -1263,7 +1263,10 @@
 "@screens/menu@file:./screens/menu":
   version "1.0.0"
 
-"@screens/messages-listing@file:./screens/messages-listing/":
+"@screens/messages-listing@file:./screens/messages-listing":
+  version "1.0.0"
+
+"@screens/notifications@file:./screens/notifications/":
   version "1.0.0"
 
 "@screens/payment-subscription@file:./screens/payment-subscription":
