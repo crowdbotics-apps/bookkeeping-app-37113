@@ -1257,7 +1257,10 @@
 "@screens/menu@file:./screens/menu":
   version "1.0.0"
 
-"@screens/profile@file:./screens/profile/":
+"@screens/payment-subscription@file:./screens/payment-subscription/":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile":
   version "1.0.0"
 
 "@screens/settings@file:./screens/settings":
