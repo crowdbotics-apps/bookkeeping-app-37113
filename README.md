@@ -70,6 +70,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-payment-subscriptions](screens/payment-subscription)
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [screen-invite-friends](screens/invite-friends)
+- [screen-direct-messages](screens/direct-messages)
 
 # Getting started: Frontend
 
