@@ -65,6 +65,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-upload-media](screens/upload-media)
 - [screen-menu](screens/menu)
 - [react-native-user-profile](modules/user-profile)
+- [screen-settings](screens/settings)
 
 # Getting started: Frontend
 
